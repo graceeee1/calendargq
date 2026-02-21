@@ -1,0 +1,9 @@
+{
+  "name": "Chronos Collage",
+  "description": "A visual narrative calendar that organizes your past memories, present moments, and future aspirations into a scrapbook-style journal.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
